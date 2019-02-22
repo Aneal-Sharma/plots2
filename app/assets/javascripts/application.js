@@ -15,6 +15,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require popper.js/dist/popper
 //= require bootstrap/dist/js/bootstrap
 //= require bootstrap-datepicker/dist/js/bootstrap-datepicker.js
 //= require jquery-file-upload/js/vendor/jquery.ui.widget.js
